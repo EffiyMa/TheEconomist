@@ -1,0 +1,13 @@
+###### As safe as houses
+# For now, residential-property prices are likely to keep rising 
+> print-edition iconPrint edition | Graphic detail | Jun 29th 2019 
+INVESTORS FOCUS on shares and bonds, but one asset class is bigger than the two combined. Put together, the world’s homes are worth over $200trn. House prices are crucial harbingers of economic trends: the last time they fell across the rich world, it set off the deepest downturn in decades. 
+Ten years have passed since the Great Recession, and home values have made back most of their losses. In Canada and New Zealand they are 40% above the pre-crisis peak. Does another crash loom? 
+None of the main international institutions, such as the IMF or OECD, includes residential property in its standard battery of economic forecasts. That may be because home values depend on local factors. However, The Economist has kept a database of house prices for decades, using figures from the OECD and national agencies. And even an inexact forecast provides more insight than no forecast at all. As a result, we have designed a model to predict changes in real home values at the national level. 
+Our system relies on three types of data. First come economic figures such as GDP growth and interest rates. Next are market fundamentals, like the ratios of home prices to rents and incomes. Last come historical prices, to take into account momentum and mean reversion. 
+The impact of each of these variables often depends on the others. To combine them, we used a machine-learning algorithm called a random forest. This method creates a “forest” of “decision trees”, each containing a series of yes/no choices such as “Has GDP been rising?” or “Are price-to-rent ratios below the long-run average?”, and averages the output of each tree. 
+The model fares well in back-testing. On average, its forecasts with 18 months’ lead time came within three percentage points of actual yearly price changes. These errors are larger during booms or busts—but still small enough for the model to be useful. 
+For example, in the year to March 2006 American house prices rose by 8%. Our model expected growth would slow to 0.3% in the year to September 2007. That was too sanguine: prices actually fell by 4.7%. But it still would have served as an early warning. 
+According to our model, conditions today are not similar to those of 2006. Across ten countries, the average of its median estimates for the year to June 2020 is an appreciation of 2.3%. The model does not rule out a downturn: there is a one-in-seven chance that Italian prices will fall by at least 5%. But the most likely scenario is that the rally has room left to run. ◼ 
+Sources: OECD; BIS; IMF; national statistics; The Economist 
+

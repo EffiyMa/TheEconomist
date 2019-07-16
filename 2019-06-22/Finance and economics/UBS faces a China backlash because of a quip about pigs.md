@@ -1,0 +1,11 @@
+###### When pigs don’t fly
+# UBS faces a China backlash because of a quip about pigs 
+![image](images/20190622_FNP001_0.jpg) 
+> print-edition iconPrint edition | Finance and economics | Jun 22nd 2019 
+AFRICAN SWINE FEVER has devastated China’s pigs. The country’s herd has shrunk by 20%, or roughly 100m, over the past year. The epidemic is now threatening to claim another victim: the standing in China of UBS, a Swiss bank. 
+Its troubles stem from a quip about the inflationary impact of the porcine pandemic, which has pushed up consumer prices. “Does this matter? It matters if you are a Chinese pig. It matters if you like eating pork in China,” Paul Donovan, global chief economist of UBS’s wealth-management arm, wrote in a note to clients. To some in China, the phrase “Chinese pig” looked insulting, even racist. 
+Screenshots quickly circulated among Chinese investors and analysts. Mr Donovan apologised and UBS deleted the note. Yet the anger was unabated. The Chinese Securities Association of Hong Kong called for Mr Donovan to be sacked. Haitong International Securities, a brokerage, said it would sever ties with UBS; China Railway Construction Corp decided against appointing it as a co-ordinator for a bond sale. As the pressure mounted, UBS put Mr Donovan on leave. 
+Some observers saw the reaction as a sign of rising anti-foreign sentiment as China’s rift with America over trade deepens. Others spied a conspiracy. UBS has been one of the most successful foreign financial firms in China and is set to play a bigger role, having won approval to take majority control of its onshore securities unit. Chinese rivals might like to take it down a peg or two. 
+Yet at least some of the outrage was genuine. Calling someone a pig in China is deeply offensive. In context, it is clear that Mr Donovan meant actual hogs, not people. But his meaning was lost in translation and distorted on social media. Had he referred to “pigs in China”, the controversy could have been averted. As Bloomberg, a news agency, put it, the result was a “costly language lesson”. 
+For those who know Mr Donovan, the injustice is obvious. He is a consummate professional, popular with colleagues—and an expert on inflation, having written a book on the topic in 2015. If UBS ends up firing him, it will have made a pig’s ear of the whole thing. 
+

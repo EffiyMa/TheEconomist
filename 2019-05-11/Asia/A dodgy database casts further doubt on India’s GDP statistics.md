@@ -1,0 +1,11 @@
+###### Service culture
+# A dodgy database casts further doubt on India’s GDP statistics 
+##### But it is hard to see a systematic bias in the latest mistakes 
+> May 9th 2019 
+MEASURING INDIA’S economy is a thankless task. About half of its vast and varied GDP comes from informal enterprises, which defy easy taxation, estimation or even definition. A similar share consists of services, which are harder to count than things you can drop on your foot or pull out of the ground. 
+To sharpen the statistical focus, India’s data-gatherers tried to carry out a big survey of service companies in 2016-17. They set about contacting over 35,000 enterprises, drawn from a list of registered companies that file accounts online with the Ministry of Corporate Affairs under an initiative called “MCA21”. But the online list did not match on-the-ground realities. 
+Many (12%) of the companies could not be traced. Others (5%) had closed since the list was compiled. Yet others (21%) were not service companies after all. And many bosses were reluctant to answer or sign off on the survey. 
+That throws fresh doubt on India’s GDP figures, which have drawn heavily on the same MCA21 source since an overhaul in 2015. That overhaul, many feel, has overstated recent growth rates. (It also led to a politically convenient downward revision of growth under the previous government.) The GDP flap, combined with the government’s attempt late last year to suppress embarrassingly bad jobs figures, have badly damaged the credibility of Indian statistics. 
+The latest controversy may itself be overstated, however. If some companies were mislabelled as service firms, the error will change the composition of GDP, not its size. Some closures are to be expected, given that the survey took place more than two years after the companies filed their returns to the MCA. Some of the untraceable firms may be shell companies, reporting revenues they do not themselves earn. But that revenue may still be genuine, earned but unreported by other entities. 
+Cynics may conclude that thousands of non-existent service firms are inflating GDP data. But in the overhauled figures, which draw on MCA21, the service sector is actually smaller than it was in the old figures. The new database may be dodgy, but the old sources had flaws too. 
+
